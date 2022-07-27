@@ -2,7 +2,7 @@
 Junior dev that work's with Nodejs, Reactjs, SpringBoot...
 
 <div align="center">
-  <a href="https://github.com/jeffersonkako">
+  <a href="https://github.com/Crown32">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crown32&show_icons=true&theme=aura&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crown32&langs_count=7&theme=aura&count_private=true"/>
 </div>
