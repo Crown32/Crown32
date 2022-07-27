@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Lucas Eleutério Bueno or @Crown32
-- 👀 I’m interested in a lot of things, like obviously coding 👨‍💻 and playing some action and grinding games 🎮👾
-- 🌱 I’m currently learning some Java, Js and his frameworks like React and Angular and a pinch of Python, and for sure how to live my life at the most 🌇 ⛺ 
-- 📫 You can reach me with, [my LinkedIn](https://www.linkedin.com/in/lucas-eleuterio-8398ba181/) or with my email to leleuteiobueno@gmail.com
+## 👋 Hi, I’m Lucas Eleutério Bueno or @Crown32
+Junior dev that work's with Nodejs, Reactjs, SpringBoot...
 
-<!---
-Crown32/Crown32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/jeffersonkako">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crown32&show_icons=true&theme=aura&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crown32&langs_count=7&theme=aura&count_private=true"/>
+</div>
+  
+  ##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+<div> 
+
+##
+
+  <a href = "mailto:leleuteiobueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-eleuterio-bueno-8398ba181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
