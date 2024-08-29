@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lucas Eleutério Bueno or @Crown32
-FullStack dev that work's with Nodejs, Angular, SpringBoot...
+FullStack dev that work's mainly with SpringBoot, Angular and Nodejs 💻
 
 <div align="center">
   <a href="https://github.com/Crown32">
