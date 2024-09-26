@@ -27,5 +27,5 @@ FullStack dev that work's mainly with SpringBoot, Angular and Nodejs 💻
 </div>
 
 <div>
-  [![@Crown32's Holopin board](https://holopin.io/api/user/board?user=crown32)](https://holopin.io/@crown32)
+  [![An image of @crown32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crown32)](https://holopin.io/@crown32)
 </div>
