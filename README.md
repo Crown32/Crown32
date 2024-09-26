@@ -25,3 +25,5 @@ FullStack dev that work's mainly with SpringBoot, Angular and Nodejs 💻
   <a href = "mailto:leleuteiobueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-eleuterio-bueno-8398ba181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Holopin](https://holopin.onrender.com/crown32)](https://holopin.io/@crown32)
